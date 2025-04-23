@@ -25,5 +25,19 @@ Problem statement according to me:
 - I thought of the fashion a lot, I mean a lot! And the one problem that is occur with my fashion is the repeating factor and lack of personality. So I have some problems with my fashion which I wanna change
 1. Have multiple T-shirts but they all look the same kind of as all are plain colors most of them are black 
 2. I don't like the printed t-shirts and hence not much thing there to showcase on plain t-shirt
-3. I usually bough high value t-shirts which are kind of expensive about $15-$20 range but are quality plus and I used them for about 1 and 1/2 years so that's a good deal for me
-4. but having some kind of accessory that will go with the t-shirt will help and hence the verocol as it can be that accessory that can preserve the minimalist look of my t-shirts while adding some style or even message
+3. I usually bough high value t-shirts which are kind of expensive about $15-$20 range but are quality plus and I used them for about 1 a  nd 1/2 years so that's a good deal for me
+4. but having some kind of accessory that will go with the t-shirt will help and hence the verocol as it can be that accessory that can preserve the minimalist look of my t-shirts while adding some style or even 
+
+### Identity:
+
+lets start with the quote and driving principle for identity of roame
+
+- ***“Company is nothing without it’s people and a brand is the projection of the people and the culture that created it in the first place”***
+
+   ***>>>** You can quote me on this one BTW..*
+
+So starting with this I got breakthrough in the identity design and its pretty simple actually, so here’s it …
+
+- ROAME is the brand that is simple and functional and for people like me introverts and lazy roame should give us an easy optout from the decisions of choosing cloths and also do it sustainably that's it
+- now the size and shape are unique to each individual as they are themselves and to combine them in some way it can only possible through their mind and hence the brand asset need to show that mind and uniqueness hence it should be the **aura** of the model
+- now in functional and practical way you can describe aura as the **model outline** (in advertising things) or as an **algorithmic personification** (for customers).
