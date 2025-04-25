@@ -4,6 +4,8 @@ A Nietzsche quote : **“*the good artist’s or thinker’s imagination is cont
 
 ## Start:
 
+![identity](https://github.com/user-attachments/assets/41140b12-78ee-4daf-b4fe-fadc02409377)
+
 I am very excited and worried at the same time wile starting this project, it’s freaking fashion project if you called that, but its more inclined towards the design and tech stuff so its fairly technical and required design skill as well so which means I can totally can or could make it a reality.
 
 Oh..I forgot to say what this all about, so it’s about a fashion project called **VeroCol** or **VC** for short which stands for Vero as true and col as collar or true collar not the phone app lol
