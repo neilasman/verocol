@@ -1,10 +1,32 @@
 # verocol
 
+Your own fashion ally
+
 Start-off Date : 03/04/2025
 
 A Nietzsche quote : ***“the good artist’s or thinker’s imagination is continually producing things good, mediocre, and bad, but his power of judgment, highly sharpened and practiced, rejects, selects, joins together”***
 
-**Shree Ganesh!**
+### **Problem Statement (According to Me):**
+
+I’ve thought *a lot* about fashion — seriously, *a lot*! And one major problem I keep facing is the **repetitiveness** and **lack of personality** in my wardrobe.
+
+Here’s the breakdown:
+
+- I own multiple T-shirts, but most of them look almost identical — plain colors, mostly black.
+- I don’t like printed T-shirts, so there's not much happening visually on what I wear.
+- I usually invest in high-quality T-shirts, spending around $15–$20 each. They last me about a year and a half, which is great value.
+- However, this also means my outfits often feel too simple or even boring over time.
+- sometime choosing from online or retail store is just chaos for my brain too much options
+
+**The real gap I feel:**
+
+I want something that *preserves* the minimalist and clean look of my favorite T-shirts but also *adds style, personality, or even a message* — *without* needing to switch to printed tees or buy tons of clothes.
+
+**That’s exactly where VeroCol comes in.**
+
+VeroCol can act as that accessory — an add-on that elevates a simple T-shirt into something unique, expressive, and personal, while still staying true to the clean, minimalist style I love.
+
+### **Starting-Off**
 
 I'm feeling both incredibly excited and a little nervous as I kick off this new project. It’s a *fashion project* — if you can even call it just that — because it leans heavily into both design and tech, blending creativity with technical skills. That’s exactly why I believe I *can* (and *will*) bring it to life.
 
@@ -20,7 +42,7 @@ Let’s see where this adventure takes me.
 
 **Let’s gooooooooooo! 🚀**
 
-## Fashion Segment
+### Fashion Segment Challenges
 
 ## 1. Decision-Making Complexity and Choice Overload
 
@@ -83,7 +105,7 @@ Let’s see where this adventure takes me.
 - [Analysing the Paralysis: Inquiry into the Paradox of Choices in Online Apparel Shopping](https://www.researchgate.net/publication/343713877_Analysing_the_Paralysis_Inquiry_into_the_Paradox_of_Choices_in_Online_Apparel_Shopping) (ResearchGate, 2019)
 - [Slowing the fast fashion industry: An all-round perspective](https://www.sciencedirect.com/science/article/pii/S2452223622000967) (ScienceDirect, 2022)
 
----
+### How verocol could be useful
 
 ## 1. Decision-Making Complexity and Choice Overload
 
@@ -128,21 +150,27 @@ By decoupling design modules, Verocol opens its platform to under-represented de
 - **Inclusive Designer Access:** Modular systems lower barriers for emerging talent to contribute discrete collar designs instead of entire collections [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2199853124000246?utm_source=chatgpt.com).
 - **Clear Impact Labels:** Each collar can carry its own sustainability and supply-chain metadata, addressing the information gap on environmental and social footprints [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2199853124002518?utm_source=chatgpt.com).
 
-## Technology Segment
+### Identity
 
-### Identity of verocol - A true collar for  your true self
-
-lets start with the quote and driving principle for identity of roame
+### verocol - A true collar for your true self
 
 - ***“Company is nothing without it’s people and a brand is the projection of the people and the culture that created it in the first place”***
 
-   ***>>>** You can quote me on this one BTW..*
+   ***>** **You can quote me on this one BTW..***
 
-So starting with this I got breakthrough in the identity design and its pretty simple actually, so here’s it …
+So starting with this I got a breakthrough in the identity design and its pretty simple actually, so here’s it …
 
-- verocol is the brand that is simple and functional and for people like me introverts and lazy verocol should give us an easy optout from the decisions of choosing cloths and also do it sustainably that's it
-- now the size and shape are unique to each individual as they are to themselves and to combine them in some way it can only possible through their mind and hence the brand asset need to show that mind and uniqueness hence it should be the **aura** of the model
+- verocol is the brand that is simple and functional and for people like me verocol should give us an easy optout from the decisions of choosing cloths and also do it sustainably that's it
+- now the size and shape are unique to each individual as they are to themselves and to combine them in some way it can only possible through their mind and hence the brand asset need to show that mind and uniqueness hence it should be the **aura** of the person
 - now in functional and practical way you can describe aura as the **model outline** (in advertising things) or as an **algorithmic personification** (for customers).
-- also for the mark to define and differentiate the brand itself it simply the v for verocol alligned with collar shape rpund neck and the oneline art to define peronality of user
+- also for the mark to define and differentiate the brand itself it simply the v for verocol aligned with collar shape round neck and the one-line art to define personality of user
 
-Link to brand guideline
+[verocol Identity guidelines](https://www.notion.so/verocol-Identity-guidelines-1e2cd63e7ce980d2ab09eb8cb235d2f3?pvs=21)
+
+### VeroCol v1 (instructable)
+
+- verocol is the detachable collar
+
+### Design:-
+
+**Prototype:** here's the first generative prototype to visualize the basic change a collar can bring to the personality.
