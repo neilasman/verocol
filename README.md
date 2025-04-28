@@ -167,10 +167,4 @@ So starting with this I got a breakthrough in the identity design and its pretty
 
 [verocol Identity guidelines](https://www.notion.so/verocol-Identity-guidelines-1e2cd63e7ce980d2ab09eb8cb235d2f3?pvs=21)
 
-### VeroCol v1 (instructable)
 
-- verocol is the detachable collar
-
-### Design:-
-
-**Prototype:** here's the first generative prototype to visualize the basic change a collar can bring to the personality.
