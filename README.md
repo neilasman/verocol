@@ -165,6 +165,4 @@ So starting with this I got a breakthrough in the identity design and its pretty
 - now in functional and practical way you can describe aura as the **model outline** (in advertising things) or as an **algorithmic personification** (for customers).
 - also for the mark to define and differentiate the brand itself it simply the v for verocol aligned with collar shape round neck and the one-line art to define personality of user
 
-best browser
-
 
