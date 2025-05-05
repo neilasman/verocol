@@ -150,19 +150,5 @@ By decoupling design modules, Verocol opens its platform to under-represented de
 - **Inclusive Designer Access:** Modular systems lower barriers for emerging talent to contribute discrete collar designs instead of entire collections [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2199853124000246?utm_source=chatgpt.com).
 - **Clear Impact Labels:** Each collar can carry its own sustainability and supply-chain metadata, addressing the information gap on environmental and social footprints [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2199853124002518?utm_source=chatgpt.com).
 
-### Identity
-
-### verocol - A true collar for your true self
-
-- ***“Company is nothing without it’s people and a brand is the projection of the people and the culture that created it in the first place”***
-
-   ***>** **You can quote me on this one BTW..***
-
-So starting with this I got a breakthrough in the identity design and its pretty simple actually, so here’s it …
-
-- verocol is the brand that is simple and functional and for people like me verocol should give us an easy optout from the decisions of choosing cloths and also do it sustainably that's it
-- now the size and shape are unique to each individual as they are to themselves and to combine them in some way it can only possible through their mind and hence the brand asset need to show that mind and uniqueness hence it should be the **aura** of the person
-- now in functional and practical way you can describe aura as the **model outline** (in advertising things) or as an **algorithmic personification** (for customers).
-- also for the mark to define and differentiate the brand itself it simply the v for verocol aligned with collar shape round neck and the one-line art to define personality of user
 
 
